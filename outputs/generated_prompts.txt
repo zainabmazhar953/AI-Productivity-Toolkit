@@ -1,0 +1,12 @@
+
+Task: Explain Artificial Intelligence
+Context: yes
+Provide an accurate, clear and useful response.
+
+==================================================
+
+Task: zero-shot prompting
+Context: i like machine learning
+Provide an accurate, clear and useful response.
+
+==================================================
